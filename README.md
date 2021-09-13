@@ -1,4 +1,4 @@
-# IMS
+# Inventory Management System
 This is an Inventory Management System Project built using Python. It keeps track record of items and related transactions in a shop.
 The system keeps a record of the following components:
 1. Sales record which contains the record of people buying items and the transactions.
